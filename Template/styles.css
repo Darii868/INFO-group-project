@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper{
+    margin: 0 auto;
+    width: 1000px;
+}
+
+.images-annie{
+    
+    width: 1000px;
+    height: 200px;
+    background-image: url(images/Annie.jpg);
+    background-size: cover;
+}
