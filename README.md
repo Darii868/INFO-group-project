@@ -1,2 +1,2 @@
-# INFO-group-project
-To access our official project files you will need to search for "INFO 1601 GROUP PROJECT"  the folder contains the main.html,style.css,images,gifs,and other resources neccesary to view the full scope of the page. Using vscode you will have to "go live" to view the webpage but everything must be in on file such as the html,css,etc in vscode. Github sadly was allowing us to upload all our fils together since as the limit is 100 files so they have been separated into two files when garthered OR downloaded to your destop simply place the files from the secondary folder into the "INFO 1601 GROUP PROJECT" to view the webpage.
+# INFO-group-project.
+To access our project you willl have to place the champion,css,about,git and images folders into the MAIN PROJECT FOLDER when downloaded to destop.
