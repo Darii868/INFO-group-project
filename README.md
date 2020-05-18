@@ -1,2 +1,2 @@
 # INFO-group-project.
-To access our project you willl have to place the champion,css,about,git and images folders into the MAIN PROJECT FOLDER when downloaded to destop.
+To access our webpage download and extract the main final project file (revised),however the gifs/videos of their abilities are to large so they will be sent separately.
