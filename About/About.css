@@ -1,0 +1,40 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    text-align: center;
+}
+
+.section-1{
+    background-image: url(llg.jpg);
+    widows: 100%;
+    height: 900px;
+    margin:0 auto;
+    background-position: center center;
+    border-image-slice: fill;
+    margin-top:-200px;
+    background-attachment: fixed;
+}
+.section-2{
+    text-align: center;   
+    padding-top: 30px;
+    text-shadow: bisque;
+}
+.section-3 video{
+    width: 70%;
+    margin: 100px 0px;
+}
+.section-4{
+    margin: 50px;
+}
+
+.back-button a img{
+    height: 500px;
+    width: 100%;
+    background-position: center;
+}
+.back-button p{
+    display: inline;
+}       
